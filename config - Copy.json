@@ -1,0 +1,91 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "_configName": "Default",
+      "_id": "cc15ce48-608f-490e-af1d-13541e54df0c",
+      "_createdAt": 1722454367825,
+      "_updatedAt": 1722455575281,
+      "repo": "hanzug/images",
+      "branch": "master",
+      "token": "ghp_XXX",
+      "path": "images/",
+      "customUrl": ""
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      }
+    ]
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": false,
+    "privacyEnsure": true,
+    "autoRename": true,
+    "rename": false
+  },
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "cc15ce48-608f-490e-af1d-13541e54df0c",
+          "_createdAt": 1722454367825,
+          "_updatedAt": 1722455575281,
+          "repo": "hanzug/images",
+          "branch": "master",
+          "token": "ghp_XXX",
+          "path": "images/",
+          "customUrl": ""
+        }
+      ],
+      "defaultId": "cc15ce48-608f-490e-af1d-13541e54df0c"
+    }
+  },
+  "picgoPlugins": {}
+}
